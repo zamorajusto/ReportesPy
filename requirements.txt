@@ -1,0 +1,4 @@
+streamlit
+pandas
+plotly
+openpyxl  # Necesario para leer archivos .xlsx
